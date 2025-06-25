@@ -5,7 +5,7 @@ Hi there 🙌 , I'm Abdelrazzaq Asfour
 💻 Full-Stack Developer | Java, Python, C#, ASP.NET, React  
 
 A passionate Computer Science student with experience in software development, data 
-structures, and algorithms. Skilled in Java, Python, MySQL, and ASP.NET, with hands-on 
+structures, and algorithms. Skilled in JAVA, Python, MySQL, and ASP.NET, with hands-on 
 projects in distributed systems and database management. Seeking a Software Development 
 Engineer position to apply my problem-solving skills and contribute to innovative solutions.
 
