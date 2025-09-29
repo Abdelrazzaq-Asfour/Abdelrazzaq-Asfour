@@ -2,7 +2,8 @@ Hi there 🙌 , I'm Abdelrazzaq Asfour
 # 👨‍💻 Software Development Engineer - Profile
 
 🎓 Software Engineering I graduated  Luminus Technical University College (LTUC)  
-💻 Full-Stack Developer | Java, Python, C#, ASP.NET, React  
+💻 Software Engineer | Full-Stack Developer | Web Developer | Python , Django , React Java , Spring boot
+
 
 Results-driven Software Engineer with a strong foundation in full-stack development and software engineering principles. I completed the General Assembly Software Engineering Career Bridging Program with hands-on training in Python, Django, SQL, React, HTML/CSS, Git/GitHub, and Test-Driven Development.
 
